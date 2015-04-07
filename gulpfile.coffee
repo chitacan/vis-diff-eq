@@ -29,7 +29,7 @@ gulp.task 'clean', (cb) ->
 
 gulp.task 'browserSync', ->
   browserSync
-    server: baseDir: './'
+    server: baseDir: './dist'
 
 gulp.task 'watchify', ->
   bundler = watchify browserify p.app, watchify.args
