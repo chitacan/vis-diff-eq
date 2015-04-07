@@ -1,0 +1,51 @@
+{
+  "name": "vis-diff-eq",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "gulp",
+    "react",
+    "browserify",
+    "seed",
+    "boilerplate",
+    "kickstarter",
+    "ES6",
+    "6to5",
+    "babel"
+  ],
+  "author": "chitacan",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "d3": "^3.5.5"
+  },
+  "devDependencies": {
+    "babelify": "^5.0.4",
+    "browser-sync": "^2.2.3",
+    "browserify": "^9.0.3",
+    "coffee-reactify": "^2.4.1",
+    "coffee-script": "^1.9.1",
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "2.1.0",
+    "gulp-changed": "^1.2.1",
+    "gulp-csso": "^1.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^1.3.3",
+    "gulp-sourcemaps": "^1.5.0",
+    "gulp-uglify": "^1.1.0",
+    "react": "^0.13.0",
+    "superagent": "^1.0.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^2.4.0"
+  }
+}

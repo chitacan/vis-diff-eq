@@ -1,0 +1,17 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.app, p {
+  display: -webkit-flex;
+  -webkit-flex-flow: column;
+  -webkit-align-items: center;
+}
+
+.chart {
+  margin: 10px;
+}
+
+.input {
+  margin: 10px;
+}
